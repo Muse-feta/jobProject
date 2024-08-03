@@ -86,9 +86,9 @@ const SignupForm = (props: Props) => {
           </button>
 
           <div className="text-center mt-4">
-            <Link href="/auth/signup">
-              Have not an account?
-              <span className="text-blue-500 hover:text-blue-600">Sign up</span>
+            <Link href="/auth/login">
+              Alredy Have an account?
+              <span className="text-blue-500 hover:text-blue-600">Log In</span>
             </Link>
           </div>
         </div>
